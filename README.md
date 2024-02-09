@@ -1,6 +1,6 @@
 ![logo](https://github.com/Nishikant4246/Nishikant4246/blob/main/Github%20background%20image.jpg)
 <h1 align="center">Hi 👋, I'm Nishikant Kshirsagar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack & JAVA Developer from Maharashtra, India </h3>
 
 <img align="right" alt="Coding" width="400px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
