@@ -30,7 +30,7 @@
    
 <h3 align="left">Operating System:-</h3>
 <p> <a href="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_640.png"> <img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_640.png" width="40" height="40"/></a></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishikant4246&show_icons=true&locale=en&layout=compact" alt="nishikant4246" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -40,7 +40,7 @@
 <a href="https://www.hackerrank.com/@nkthecoder45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nkthecoder45" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nkthecoder45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nkthecoder45" height="30" width="40" /></a>
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishikant4246&show_icons=true&locale=en&layout=compact" alt="nishikant4246" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishikant4246&show_icons=true&locale=en" alt="nishikant4246" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishikant4246&" alt="nishikant4246" /></p>
