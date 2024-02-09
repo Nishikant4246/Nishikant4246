@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- First Project [Spotify web player] (https://github.com/Nishikant4246/spotify-web-clone-Interface-)
 
 - 👨‍💻 All of my projects are available at [Git-hub](Git-hub)
 
