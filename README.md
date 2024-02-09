@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="nishikant4246" /> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Development**
 
 - First Project [Spotify web player] (https://github.com/Nishikant4246/spotify-web-clone-Interface-)
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Improving](Improving)
 
-- ⚡ fact **I'm Positive Person.**
+- ⚡ Real fact **I'm Positive Person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
