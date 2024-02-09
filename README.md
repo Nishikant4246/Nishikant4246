@@ -29,8 +29,12 @@
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodejs" width="40" height="40"/> </a> </p>
    
 <h3 align="left">Operating System:-</h3>
-<p> <a href="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_640.png"> <img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_640.png" width="40" height="40"/></a></p>
+<p> <a href="https://code.visualstudio.com/"> <img src="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_640.png" width="40" height="40"/></a></p>
 
+<h3 align="left"> IDE's :</h3>
+<p> <a href=""https://code.visualstudio.com/"> <img src="https://yt3.googleusercontent.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" width="40" height="40"/></a>
+  <a href="https://eclipse.com/"> <img src="https://e7.pngegg.com/pngimages/546/290/png-clipart-eclipse-computer-icons-integrated-development-environment-computer-software-eclipse-purple-furniture.png"  width="40" height="40" /></a>
+<a href="https://thonny.org/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP6a_lPPLOHauzmKhTNv9qZBqY8aHYEo-T2g&usqp=CAU" width="40" height="40" /></a></p>
 
 
 <h3 align="left">Connect with me:</h3>
