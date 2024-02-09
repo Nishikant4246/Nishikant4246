@@ -1,3 +1,4 @@
+![logo](https://github.com/Nishikant4246/Nishikant4246/blob/main/Github%20background%20image.jpg)
 <h1 align="center">Hi 👋, I'm Nishikant Kshirsagar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
