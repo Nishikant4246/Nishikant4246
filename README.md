@@ -1,4 +1,3 @@
-Status : Working Bro <br> 
 ![logo](https://github.com/Nishikant4246/Nishikant4246/blob/main/Github%20background%20image.jpg)
 
 <br/>
