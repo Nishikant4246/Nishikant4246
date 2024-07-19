@@ -7,18 +7,17 @@
  <h1 align="center">
      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nishikant+Kshirsagar!;" />
  </h1>
-
- <h3 align="center">A passionate MERN Stack & JAVA Developer from Maharashtra, India </h3>
+ 
+ <h3 align="center">:technologist: A passionate MERN Stack & JAVA Developer from Maharashtra, India :technologist: </h3>
  
 </div>
-
+<hr>
 
  <img align="right" alt="Coding" width="400px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="nishikant4246" /> </p>
 
 - 🌱 I’m currently learning **Backend Development**
-
 
 - 👨‍💻 All of my projects are available at [Git-hub](Git-hub)
 
@@ -30,7 +29,7 @@
 
 - Game Project  [Simon Game](https://nishikant4246.github.io/Simon-Game/)
 
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="nishikant4246" /> </p>
 <hr>
 <h3 align="left"><i><b> Languages/<b>Technologies/Frameworks/Tools:-</b></i></h3>
 <p align="left">  
