@@ -79,7 +79,7 @@
 
 
 <!-- N's Bottom Section -->
-<h2 align="left">🚀 Connect with me on LinkedIn</h2>
+<h4 align="left">🚀 Connect with me on LinkedIn</h4>
 <p>
    <a href="https://www.linkedin.com/in/nishikant-v-kshirsagar-483a2b259/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="25" width="30" style="border: 2px solid white;"/>
@@ -89,17 +89,17 @@
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishikant4246&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant4246&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishikant4246&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant4246&theme=dark" alt="GitHub Streak" height="180" />
 </p>
 
 ---
 
 <h3 align="center">📊 My Statistics</h3>
 <div align="center">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishikant4246&theme=dark" height="180em" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nishikant4246&theme=dark" height="180em" />
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishikant4246&theme=dark" height="180em" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nishikant4246&theme=dark&count_private=true&include_all_commits=true" height="180em" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nishikant4246&theme=dark&count_private=true&include_all_commits=true" height="180em" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishikant4246&theme=dark&count_private=true&include_all_commits=true" height="180em" />
 </div>
 
 ---
@@ -115,8 +115,10 @@
    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 
+
 <p align="center">© N's 2025 | All Rights Reserved</p><p align="center"> 
   <a href="https://nishikant-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🎉%20Click%20for%20Fun!-ff69b4?style=for-the-badge" alt="Fun Button" />
-  </a></p>
+  </a>
+</p>
 
