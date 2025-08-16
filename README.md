@@ -7,13 +7,14 @@
 <p align="center" style="margin:6px 0 0 0; font-size:18px;">
   👨‍💻 A passionate Software Engineer from Pune, Maharashtra 👨‍💻
 </p>
+
  </br>
 <p align="center" style="margin:6px 0 0 0; font-size:26px; font-weight:700;">
-  🌐 <a href="https://nishikant-dev.vercel.app/" target="_blank">Visit My Portfolio Website</a> 🌐
+  🌐 <a href="https://nishikant-dev.vercel.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio Website</a> 🌐
 </p>
+
  
 </div>
-@N's
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="nishikant4246" />
