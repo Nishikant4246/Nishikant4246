@@ -88,10 +88,27 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishikant4246&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant4246&theme=dark" alt="GitHub Streak" height="180" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Nishikant4246&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"
+        alt="GitHub Stats"
+        width="350"
+        height="150"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Nishikant4246&theme=dark&hide_border=true"
+        alt="GitHub Streak"
+        width="350"
+        height="150"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -102,14 +119,11 @@
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishikant4246&theme=dark&count_private=true&include_all_commits=true" height="180em" />
 </div>
 
----
-
 <h2 align="left">🔥 Contribution Graph</h2>
 <p align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishikant4246&theme=high-contrast" alt="Contribution Graph"/>
 </p>
 
----
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
