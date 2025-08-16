@@ -17,8 +17,13 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="nishikant4246" />
+  <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp;
 </p>
+<p align="right"> 
+  <a href="https://nishikant-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎉%20Click%20for%20Fun!-ff69b4?style=for-the-badge" alt="Fun Button" />
+  </a></p>
 
 <!-- N's About Profile Section -->
 ### 👨‍💻 About Me  
