@@ -10,7 +10,7 @@
 
  </br>
 <p align="center" style="margin:6px 0 0 0; font-size:26px; font-weight:700;">
-  🌐 <a href="https://nishikant-dev.vercel.app/" target="_blank" rel="noopener noreferrer">Visit My Portfolio Website</a> 🌐
+  🌐 <a href="https://nishikant-dev.vercel.app/">Visit My Portfolio Website 🌐</a>
 </p>
 
  
