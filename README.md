@@ -20,10 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;&nbsp;&nbsp;
 </p>
-<p align="right"> 
-  <a href="https://nishikant-dev.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🎉%20Click%20for%20Fun!-ff69b4?style=for-the-badge" alt="Fun Button" />
-  </a></p>
 
 <!-- N's About Profile Section -->
 ### 👨‍💻 About Me  
@@ -42,7 +38,6 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishikant4246&label=Profile%20views&color=0e75b6&style=flat" alt="nishikant4246" /> </p>
 
 <!-- N's Tech Section -->
 ### 🛠️ Skills & Technologies  
@@ -120,4 +115,8 @@
    <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </p>
 
-<p align="center">© N's 2025 | All Rights Reserved</p>
+<p align="center">© N's 2025 | All Rights Reserved</p><p align="center"> 
+  <a href="https://nishikant-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎉%20Click%20for%20Fun!-ff69b4?style=for-the-badge" alt="Fun Button" />
+  </a></p>
+
