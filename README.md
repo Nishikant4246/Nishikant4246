@@ -105,7 +105,7 @@
 
 <!-- N's Bottom Section -->
 <p align="center">
-  <img
+  <img height ="100"
     src="https://streak-stats.demolab.com?user=Nishikant4246&theme=dark&hide_border=true&ring=DD2727&fire=DD2727&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=BBBBBB"
     width="100%"
   />
